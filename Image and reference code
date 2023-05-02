@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="icon" type="image/x-icon" href="globe.png">
+        <style>
+            #safforn{
+                background-color: orangered;
+                padding: 30px;
+                font-size: 20px;
+                color: azure
+            }
+            #green{
+                background-color: green;
+                padding: 30px;
+                font-size: 20px;
+                color: azure
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="safforn"> WELCOME</div><br>
+        <p><h3>A) SELECT THE FOLLOWING IMAGES IN ORDER TO VIEW THE DESCRIPTION OF THOSE IMAGES, WHICH WOULD OPEN IN SEPARATE BROWSER TAB. </h3></p><br><br>
+        <a href="https://simple.wikipedia.org/wiki/Christianity" target="_blank">
+        <image src="christianity.jpg" title="christianity" width="500px" height="500px"></a></image>                                      
+        <a href="https://www.bbc.co.uk/programmes/p057b7yl" target="_blank">
+        <image src="judaism.jpg" title="judaism" width="500px" height="500px"></a></image>
+        <a href="https://theculturetrip.com/asia/thailand/articles/everything-you-need-to-know-about-buddhism-in-thailand/" target="_blank">
+        <image src="Buddhism.jpg" title="Buddhism" width="500px" height="500px"></a></image>
+        <a href="https://thelogicalindian.com/history/guru-nanak-jayanti-remembering-the-first-guru-who-laid-foundation-of-sikhism-on-his-birth-anniversary-32019" target="_blank">
+        <image src="sikhism.jpg" title="sikhism" width="500px" height="500px"></a></image><br><br>
+        <a href="https://world-religions.info/types-of-paganism/" target="_blank">
+        <image src="paganism.jpg" title="paganism" width="500px" height="500px"></a></image>
+        <a href="https://www.pewresearch.org/fact-tank/2021/08/17/6-facts-about-jains-in-india/" target="_blank">
+        <image src="jainism.jpg" title="jainism" width="500px" height="500px"></a></image>
+        <div id="green"> THANK YOU</div>
+    </body>
+</html>
